@@ -39,11 +39,11 @@ The application allows users to find nearby available bicycles, rent them using 
 
 | Homepage | Dashboard |
 |:---:|:---:|
-| ![Homepage](./homepage.png) | ![Dashboard](./dashboard.png) |
+| ![Homepage](./homepage.PNG) | ![Dashboard](./dashboard.PNG) |
 
 | Map | Rental History |
 |:---:|:---:|
-| ![Map](./map.png) | ![History](./history.png) |
+| ![Map](./map.PNG) | ![History](./history.PNG) |
 
 ---
 
